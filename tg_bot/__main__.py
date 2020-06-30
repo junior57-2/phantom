@@ -34,14 +34,15 @@ PM_START_TEXT = """
 █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-Hello {}, My Name Is {} !
+Hello {}, 
+I'm {} !
 
-I AM A GROUP MANAGER BOT.
+I'm a GROUP MANAGER BOT.
 HIT /help for Commands.
 
 This bot is COMPLETELY OPEN Sourced
 
-My Owner is [Here](@demogod_1) ,disable_web_page_preview=True
+My Owner is [Here](@demogod_1)
 
 """
 
