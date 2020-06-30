@@ -42,7 +42,7 @@ HIT /help for Commands.
 
 This bot is COMPLETELY OPEN Sourced
 
-My Owner is [Here](@demogod_1)
+My Owner is [Here](t.me/demogod_1)
 
 """
 
