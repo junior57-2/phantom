@@ -41,7 +41,7 @@ HIT /help for Commands.
 
 This bot is COMPLETELY OPEN Sourced
 
-My Owner is [Here](@demogod_1),disable_web_preview=True
+My Owner is [Here](@demogod_1) ,disable_web_page_preview=True
 
 """
 
